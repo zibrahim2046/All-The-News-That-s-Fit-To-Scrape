@@ -22,12 +22,12 @@
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.4",
+    "express-handlebars": "^5.0.0",
     "logger": "0.0.1",
     "method-override": "^3.0.0",
-    "mongoose": "^5.9.16",
+    "mongoose": "^5.9.22",
     "morgan": "^1.10.0",
-    "node": "^14.3.0",
+    "node": "^14.5.0",
     "request": "^2.88.2"
   }
 }
